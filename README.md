@@ -12,7 +12,7 @@ By setting thresholds for normal water flow and pressure, deviations from typica
 + Reporting and Visualization:
 The data analysis outputs were visualized using dashboards to display real-time leak detection. Alerts were set up to notify operators when potential leaks were detected, facilitating timely repairs.
 
-### 2- 2. Water Consumption Prediction and Efficiency Analysis:
+### 2- Water Consumption Prediction and Efficiency Analysis:
 In this project, I utilized supervised learning algorithms to predict water consumption patterns and assess inefficiencies in the system. Using techniques such as time-series analysis and neural networks, I evaluated various machine learning models to forecast water demand and identify areas of overconsumption or inefficiency.
 + Models Used: Neural Networks, Random Forest, and Gradient Boosting were compared based on their prediction accuracy.
 + Evaluation Metrics: I used MAE and RMSE to assess the accuracy of these models and provided insights into reducing water consumption and optimizing resource allocation.
