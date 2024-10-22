@@ -1,4 +1,5 @@
 # Smart Water Management (SWM)
+![SWM](https://github.com/user-attachments/assets/1b3ad486-66ce-4b08-ad4d-599f70dc716a)
 
 ## Overview
 During my internship at TESISQUARE, I worked on a project focused on leak detection within a Smart Water Management (SWM) system. The primary goal of this project was to detect water leaks in the distribution network by analyzing data from IoT-based smart meters and sensors. The detection of leaks is crucial for reducing water wastage, improving the efficiency of water distribution, and enhancing overall sustainability.
