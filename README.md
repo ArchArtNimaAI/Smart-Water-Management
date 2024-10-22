@@ -4,7 +4,6 @@
 During my internship at TESISQUARE, I worked on a project focused on leak detection within a Smart Water Management (SWM) system. The primary goal of this project was to detect water leaks in the distribution network by analyzing data from IoT-based smart meters and sensors. The detection of leaks is crucial for reducing water wastage, improving the efficiency of water distribution, and enhancing overall sustainability.
 
 ### Leak Detection Data Analysis:
-+ Leak Detection Data Analysis:
 In this project, I concentrated on analysing real-time data collected from the water distribution system. By monitoring parameters such as water flow rates, pressure levels, and consumption trends, I identified anomalies that could signify leaks. The analysis involved:
 + Data Preprocessing: 
 Cleaning and organizing the raw sensor data, including handling missing values, time-series alignment, and noise reduction.
